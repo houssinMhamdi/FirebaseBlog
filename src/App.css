@@ -187,3 +187,8 @@ textarea {
   overflow: hidden;
   overflow-y: auto;
 }
+.btn {
+  width: 200px;
+  height: 80px;
+  font-size: 25px;
+}
