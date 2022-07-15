@@ -11,7 +11,7 @@ nav {
   margin: 0;
   width: 100%;
   height: 80px;
-  background-color: black;
+  background-color: blue;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -188,7 +188,7 @@ textarea {
   overflow-y: auto;
 }
 .btn {
-  width: 200px;
-  height: 80px;
+  width: 110px;
+  height: 50px;
   font-size: 25px;
 }
